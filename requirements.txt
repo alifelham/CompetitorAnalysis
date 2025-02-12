@@ -1,0 +1,21 @@
+# HTTP requests to external APIs
+requests==2.31.0
+
+# OpenAI API integration
+openai==0.27.8
+
+# HTML parsing library (for web scraping if needed)
+beautifulsoup4==4.12.3
+lxml
+
+# Data manipulation and normalization
+pandas
+
+# For managing environment variables (e.g., loading .env files)
+python-dotenv==1.0.0
+
+# Natural Language Processing with spaCy
+spacy==3.5.0
+
+# Sentiment analysis with TextBlob
+textblob==0.17.1
